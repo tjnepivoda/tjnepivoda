@@ -88,7 +88,7 @@ Developed an interactive analytics application designed to identify natural empl
 
 **Skills:** Python · K-Means · scikit-learn · Plotly · Data Preprocessing · Unsupervised Learning
 
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tjnepivoda/EmployeeSegmentation)
 
 ---
 
@@ -100,7 +100,7 @@ The application incorporates model evaluation using metrics including **R², Adj
 
 **Skills:** Python · Regression · Classification · scikit-learn · Gradio · Pandas · Model Evaluation
 
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK)
+[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tjnepivoda/Case2AirbnbRental)
 
 ---
 
@@ -112,8 +112,6 @@ The solution emphasizes using descriptive analytics and visualization to convert
 
 **Skills:** Business Analytics · Data Visualization · Inventory Analytics · Dashboard Design · Decision Support
 
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK)
-
 ---
 
 ### Airbnb Density & Housing Market Analysis
@@ -123,8 +121,6 @@ Analyzed the relationship between **Airbnb concentration and local housing marke
 The project used time-series analysis, geographic visualization, scatter plots, and calculated Airbnb-density metrics to explore whether areas with greater short-term rental activity also experience differences in home-value appreciation and rental prices.
 
 **Skills:** Tableau · Data Visualization · Zillow Data · Census Data · Data Integration · Exploratory Analytics
-
-[![View Project](https://img.shields.io/badge/View_Project-1a1a2e?style=for-the-badge&logo=github&logoColor=white)](YOUR_PROJECT_LINK)
 
 ---
 
