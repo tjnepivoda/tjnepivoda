@@ -34,7 +34,7 @@ I bring a combination of hands-on development experience, enterprise analytics k
 | Degree | Institution | Year |
 |--------|-------------|------|
 | M.S. Applied Business Analytics | Purdue University | Expected 2027 |
-| `[Undergraduate Degree]` | `[Institution]` | `[Year]` |
+| B.S. Business Data Analytics | Arkansas Tech University | 2019 |
 
 ---
 
