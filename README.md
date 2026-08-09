@@ -5,6 +5,10 @@ Technical Architect | Microsoft Productivity & AI | Business Analytics
 </h3>
 
 <p align="center">
+  <img src="LinkedIn.jpg" alt="TJ Nepivoda" width="180">
+</p>
+
+<p align="center">
 Helping organizations get more value from Microsoft technologies, data, analytics, and AI.
 </p>
 
@@ -34,7 +38,7 @@ I bring a combination of hands-on development experience, enterprise analytics k
 | Degree | Institution | Year |
 |--------|-------------|------|
 | M.S. Applied Business Analytics | Purdue University | Expected 2027 |
-| B.S. Business Data Analytics | Arkansas Tech University | 2019 |
+| `[Undergraduate Degree]` | `[Institution]` | `[Year]` |
 
 ---
 
